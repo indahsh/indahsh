@@ -10,14 +10,10 @@
 - 📫 How to reach me: indaahsitoresmii@gmail.com
 
 ## Languages and Tools:
-<p align="left"> 
-  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>  
-</p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>  
 
 ## Github Statistic
-<p align="center">
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indahsh&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indahsh&layout=compact&langs_count=8&theme=tokyonight"/>
 
 
