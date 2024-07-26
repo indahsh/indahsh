@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Indah!
+# Hi, I'm Indah!👋
 
 <p align="justify">
   I'm seeking opportunities to contribute my statistical expertise and analytical skills in the data field, especially in Data Analyst, Data Scientist, and Business Intelligence.
