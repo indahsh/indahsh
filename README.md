@@ -17,7 +17,6 @@
 
 ## Github Statistic
 <p align="center">
-  <img alt="Indah's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=indahsh&show_icons=true&theme=tokyonight"/>
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indahsh&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
