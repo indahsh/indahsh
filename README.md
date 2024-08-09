@@ -7,7 +7,7 @@
 - 🎓 I'm a **Bachelor of Statistics** from Brawijaya University.
 -  🖥 I’m interested in **Data Analysis, Data Science, and Machine Learning**.
 - 📚 I’m currently learning **R, SQL, and Python**.
-- 📧 Reach me via indaahsitoresmii@gmail.com or [LinkedIn](https://www.linkedin.com/in/indahsh/)
+- 📧 Reach me via indaahsitoresmii@gmail.com or [LinkedIn](https://www.linkedin.com/in/indahsh/).
 
 ## Languages and Tools
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/R_(programming_language)/R_(programming_language)-Logo.wine.svg" alt="r" width="40" height="40"/> 
