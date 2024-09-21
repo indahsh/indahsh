@@ -13,6 +13,8 @@
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/R_(programming_language)/R_(programming_language)-Logo.wine.svg" alt="r" width="40" height="40"/> 
 <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="mysql" width="40" height="40"/> 
+<a href="https://apex.oracle.com/en/" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/xE9MRa26hy7KIOo-DP0RG83R4ag3beyCapi-ZY25iGqZDZ-QS78rqNvGFp7pS3ZA-YMUnrJHTF8=s900-c-k-c0x00ffffff-no-rj" alt="oracle apex" width="40" height="40"/>
+<a href="https://www.oracle.com/id/database/sqldeveloper/technologies/sql-data-modeler/" target="_blank" rel="noreferrer"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2016/08/icon256.png" alt="oracle sql developer data modeler" width="40" height="40"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
