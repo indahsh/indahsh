@@ -6,7 +6,6 @@
 
 - 🎓 I'm a **Bachelor of Statistics** from Brawijaya University.
 -  🖥 I’m interested in **Data Analysis and Data Science**.
-- 📚 I’m currently learning **R, SQL, and Python**.
 - 📧 Reach me via indahsitoresmi7@gmail.com or [LinkedIn](https://www.linkedin.com/in/indahsh/).
 
 ## Languages and Tools
