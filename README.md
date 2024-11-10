@@ -28,6 +28,4 @@
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" alt="tableau" width="40" height="40"/>
 
 ## GitHub Statistic
-
-
-
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indahsh&layout=compact&langs_count=8&theme=tokyonight"/>
